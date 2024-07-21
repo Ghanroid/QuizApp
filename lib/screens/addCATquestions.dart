@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_ui_quiz/database.dart';
+import 'package:login_ui_quiz/services/database.dart';
 import 'package:random_string/random_string.dart';
 
 class AddCATQuestions extends StatefulWidget {

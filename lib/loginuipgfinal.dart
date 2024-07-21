@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:login_ui_quiz/signtp.dart';
-import 'package:login_ui_quiz/timepass/tp_home.dart';
+import 'package:login_ui_quiz/screens/tp_home.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

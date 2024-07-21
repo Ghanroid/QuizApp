@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:login_ui_quiz/database.dart';
-import 'package:login_ui_quiz/nouse/resultCAT.dart';
+import 'package:login_ui_quiz/services/database.dart';
+import 'package:login_ui_quiz/screens/resultCAT.dart';
 
 class PlayCAT extends StatefulWidget {
   final String quizId;

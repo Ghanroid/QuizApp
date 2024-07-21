@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:login_ui_quiz/loginuipgfinal.dart';
-import 'package:login_ui_quiz/timepass/tp_home.dart';
+import 'package:login_ui_quiz/screens/tp_home.dart';
 
 class Signtp extends StatefulWidget {
   const Signtp({super.key});

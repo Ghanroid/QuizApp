@@ -2,9 +2,9 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:login_ui_quiz/loginuipgfinal.dart';
-import 'package:login_ui_quiz/nouse/createCAT.dart';
+import 'package:login_ui_quiz/screens/createCAT.dart';
 //import '../createquiz.dart';
-import '../nouse/playSet.dart';
+import 'playSet.dart';
 
 class TpHomePage extends StatefulWidget {
   final String myemail, mypass;
